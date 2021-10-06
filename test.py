@@ -12,7 +12,7 @@ def redirected():
     Context manager para capturar las salida de print (sys.stdout en general).
     Nos va a permitir capturar la salida por pantalla de las funciones del ejercicio.
 
-    Sería mejor separar el código de mostrar_tareas en dos funciones: una que devuelve el
+    Sería mejor separar el código de mostrar_productos en dos funciones: una que devuelve el
     texto, y otra que llama a la primera y lo muestra. Así no haría falta este tipo de
     programación avanzada.
     '''
