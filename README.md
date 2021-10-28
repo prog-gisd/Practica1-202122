@@ -288,7 +288,7 @@ def insertar(producto):
   raise NotImplementedError
 
 def borrar(numero):
-  '''Devuelve el producto en el índice dado de lista de productos.'''
+  '''Borra el producto en el índice dado de lista de productos.'''
   raise NotImplementedError
 
 def lista_productos():
